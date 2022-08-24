@@ -403,7 +403,7 @@ module.exports = {
     ko: "{{#def.n}}최대 {{=n}}글자여야 합니다",
     nb: "{{#def.n}}kan ikke være lengre enn {{=n}} tegn",
     nl: "{{#def.n}}mag niet langer dan {{=n}} karakter{{#def.mPlural}} zijn",
-    pl: "{{#def.n}}nie powinien być dłuższy niż {{=n}} znak{{? n!=1 }}ów{{?}}",
+    pl: "{{#def.n}}Maksymalna liczba znaków wynosi {{=n}}",
     "pt-BR": "{{#def.n}}não deve ser maior que {{=n}} caracter{{? n!=1 }}es{{?}}",
     ru: "{{#def.n}}должно быть не длиннее, чем {{=n}} символ{{#def.mPlural}}",
     sk: "{{#def.n}}nesmie byť dlhší než {{=n}} znak{{? n!=1 }}ov{{?}}",
