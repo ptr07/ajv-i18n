@@ -5,7 +5,6 @@
  * "en" must remain in the first position.
  * Tests will fail otherwise.
  */
-
 module.exports = {
   // supported locales
   _locales: [
