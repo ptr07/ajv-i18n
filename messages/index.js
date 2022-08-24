@@ -428,7 +428,7 @@ module.exports = {
     ko: "{{#def.n}}최소 {{=n}}글자여야 합니다",
     nb: "{{#def.n}}kan ikke være kortere enn {{=n}} tegn",
     nl: "{{#def.n}}mag niet korter dan {{=n}} karakter{{#def.mPlural}} zijn",
-    pl: "{{#def.n}}nie powinien być krótszy niż {{=n}} znak{{? n!=1 }}ów{{?}}",
+    pl: "{{#def.n}}Minimalna liczba znaków {{=n}}",
     "pt-BR": "{{#def.n}}não deve ser mais curta que {{=n}} caracter{{? n!=1 }}es{{?}}",
     ru: "{{#def.n}}должно быть не короче, чем {{=n}} символ{{#def.mPlural}}",
     sk: "{{#def.n}}nesmie byť kratší než {{=n}} znak{{? n!=1 }}ov{{?}}",
